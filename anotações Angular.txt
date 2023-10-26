@@ -1,0 +1,4 @@
+ng generate component extrato
+	- cria um novo componente.
+ng s -o
+	- executa o servidor e já abre uma tela do browser com essa informação
